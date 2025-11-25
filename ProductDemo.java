@@ -1,3 +1,6 @@
+// Lab 7 icin
+
+
 import java.util.Scanner;
 
 public class ProductDemo {
@@ -65,4 +68,5 @@ public class ProductDemo {
         System.out.println("\nProcess finished.");
     }
 }
+
 
