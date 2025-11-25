@@ -1,3 +1,5 @@
+// Lab 7 icin.
+
 public class Circle {
 
     private Point center;
@@ -25,3 +27,4 @@ public class Circle {
         System.out.println("Circumference: " + getCircumference());
     }
 }
+
