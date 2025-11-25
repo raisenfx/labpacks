@@ -16,7 +16,7 @@ public class BookDemo {
         System.out.println("---- b2 ----");
         b2.printBook();
 
-        Book b3 = new Book("Harry Potter", 320); // same values
+        Book b3 = new Book("Harry Potter", 320); 
 
         System.out.println("\nComparing references:");
         System.out.println(b1);
@@ -28,5 +28,6 @@ public class BookDemo {
 
     }
 }
+
 
 
