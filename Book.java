@@ -1,4 +1,6 @@
-public class Book {
+// Lab7 icin.
+    
+    Public class Book {
 
     String title;
     int pages;
