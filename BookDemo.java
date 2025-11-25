@@ -1,3 +1,5 @@
+//Lab7 icin
+
 public class BookDemo {
     public static void main(String[] args) {
 
@@ -26,4 +28,5 @@ public class BookDemo {
 
     }
 }
+
 
