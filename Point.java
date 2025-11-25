@@ -1,3 +1,5 @@
+// Lab 7 icin.
+
 public class Point {
 
     private double x;
