@@ -1,3 +1,5 @@
+// Lab 7 için.  
+
 public class Student {
 
     String name;
