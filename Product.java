@@ -1,3 +1,5 @@
+// Lab 7 icin
+
 public class Product {
 
     private String name;
