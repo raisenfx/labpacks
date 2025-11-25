@@ -1,3 +1,5 @@
+// Lab 7 için.
+
 import java.util.Scanner;
 
 public class BankAccount {
