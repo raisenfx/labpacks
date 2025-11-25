@@ -1,3 +1,5 @@
+// Lab 7 icin.
+
 public class PointCircleDemo {
     public static void main(String[] args) {
         
@@ -14,3 +16,4 @@ public class PointCircleDemo {
         System.out.println("\nDistance between p1 and p2 = " + dist);
     }
 }
+
