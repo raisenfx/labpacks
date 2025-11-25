@@ -1,3 +1,5 @@
+// Lab 7 için.  
+
 public class MainS1 {
     public static void main(String[] args) {
 
@@ -11,4 +13,5 @@ public class MainS1 {
         s2.printStudentInfo();
     }
 }
+
 
