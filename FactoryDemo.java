@@ -1,3 +1,5 @@
+// Lab 8 icin
+
 import java.util.Scanner;
 
 class Robot {
